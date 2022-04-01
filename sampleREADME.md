@@ -38,8 +38,13 @@ n/a
 
 ## Questions
 
+# Links
+
 ### Github
 
 [Personal Page](https://github.com/jaredpennington)
+
+walkthrough video: https://drive.google.com/file/d/1VVkda6BZhQjDQzPrk7pUlfJxxE3_ypzR/view
+
 
 If you have any questions, you can reach me at <jaredtookthis@gmail.com>
